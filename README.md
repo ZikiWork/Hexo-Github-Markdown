@@ -1,4 +1,4 @@
-# Hexo-Github-Markdown-
+# Hexo-Github-Markdown
 
 ### 前言
 ###### 为什么选择GitHub Pages？
